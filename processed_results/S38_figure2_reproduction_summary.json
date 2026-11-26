@@ -1,0 +1,22 @@
+{
+  "script": "code/S38_figure2_spatial_revision.py",
+  "figure_png": "figures/Figure2_revised.png",
+  "figure_pdf": "figures/Figure2_revised.pdf",
+  "figure_png_md5": "61445e183f78d783df72100892ecc562",
+  "inputs": {
+    "spots": "processed_tables/S26_spatial_scores.csv (22,915 rows; 16 sections)",
+    "edge_distances": "processed_tables/S29_edge_dist.csv",
+    "temporal_nulls": "processed_results/S26b_global_gradient.json",
+    "gradient_specificity": "processed_results/S29b_gradient_specificity.json",
+    "donor_stratified": "processed_results/S36_donor_stratified_spatial_sensitivity.json",
+    "subtype_specificity": "processed_results/S35_selfaudit_redundancy.json"
+  },
+  "key_checks": {
+    "spots_total": 22915,
+    "wound7_edge_distance_spots": 6044,
+    "F6_donor_mean_rho": -0.18429739432683104,
+    "F7e_donor_mean_rho": 0.1953997365814266,
+    "F7e_condition_trend_rho": 0.4703845812582839,
+    "F7e_condition_trend_empirical_p": 0.001999000499750125
+  }
+}
