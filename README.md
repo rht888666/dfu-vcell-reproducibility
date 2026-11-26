@@ -18,8 +18,10 @@ Raw public datasets are not redistributed here. They are available from the orig
 1. Several legacy scripts contain the original local root path `C:/Users/Administrator/Desktop/虚拟细胞论著投稿`. Before rerunning locally, set that root to the local package/project path or replace it with the appropriate directory.
 2. Processed outputs are provided so that the manuscript numbers can be checked without re-downloading all raw public data.
 3. `S36_donor_stratified_spatial_sensitivity.py` was added during revision to calculate donor-stratified Day-7 wound-edge correlations without cross-donor pooling.
-4. Random seeds are fixed inside the scripts where permutation procedures are used.
+4. `S37_gating_sensitivity_GSE165816.py` was added during revision to recompute the primary and collagen-free fibroblast-gating sensitivity analyses under the rank-residualization framework. Its machine-generated output is `processed_results/S37_gating_sensitivity_GSE165816.json`.
+5. In GSE165816, “analytical units” refer to the legacy donor-hint aggregated units described in the manuscript; subject_hint is only a weak donor hint rather than verified patient identity.
+6. Random seeds are fixed inside the scripts where permutation procedures are used.
 
 ## Revision status
 
-This archive is prepared for public deposit in Zenodo or GitHub at revision. The persistent DOI/URL must be inserted into the manuscript Data Availability Statement after upload.
+This archive is publicly available at https://github.com/rht888666/dfu-vcell-reproducibility. The revision release is https://github.com/rht888666/dfu-vcell-reproducibility/releases/tag/v1.1-revision.
