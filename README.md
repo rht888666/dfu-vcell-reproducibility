@@ -26,3 +26,15 @@ Raw public datasets are not redistributed here. They are available from the orig
 ## Revision status
 
 This archive is publicly available at https://github.com/rht888666/dfu-vcell-reproducibility. The current revision release is https://github.com/rht888666/dfu-vcell-reproducibility/releases/tag/v1.1.1-revision. It supersedes the initial v1.1-revision archive by adding the Figure 2 regeneration script and outputs; the underlying analysis results are unchanged.
+
+## Round-1 revision reanalysis (v1.2.0)
+
+`code/reanalysis_round1/` contains the harmonized reanalysis underlying the revised manuscript:
+- `S40_longitudinal_rebuild.py` - donor x timepoint x program single-source table for Figure 1 / Table 3, including the ACTA2/TAGLN ablation panel series (F7, F7-CT, F7e, F7e+CT).
+- `S41_gse165816_exact.py` - exact two-sided permutation tests (C(14,5)=2,002) for GSE165816 across depth-adjustment schemes; library-level table outputs.
+- `S42_crispra_axis_audit.py` - recomputation of CRISPRa rankings on three axis definitions (Axis-A, Axis-M7, pure structural F7e5) with leave-one-gene-out stability; full rankings exported.
+- `S43_cohort_exact_tests.py` - exact two-sided tests for GSE231643 / GSE223964.
+- `S44_spatial_stats.py` - spatial per-donor compartment statistics and two-directional smooth-muscle ablation.
+- `S50_redraw_figures.py` - regeneration of Figures 1-4 from the harmonized outputs.
+
+`processed_results/MASTER_numbers.json` is the single consolidated source of every number reported in the revised manuscript. Key corrections relative to the original submission: exact two-sided (not one-sided) permutation tests; Figure 1 / Table 3 / text generated from one donor-level table; CRISPRa Axis-M7 Z for EGR3 recomputed as 12.35; smooth-muscle pooled scores recomputed (F7 +0.485, F7-CT -0.129, F7e -0.058, F7e+CT +0.462); GSE245703 excluded (single library per group).

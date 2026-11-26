@@ -1,0 +1,149 @@
+{
+  "GSE231643": {
+    "n_healer": 5,
+    "n_nonhealer": 3,
+    "unit": "deposited GEO libraries",
+    "tests": {
+      "F6": {
+        "diff": 0.19240105083833134,
+        "p_two_sided_exact": 0.03571428571428571,
+        "n_perm": 56,
+        "healer_mean": 0.05687360148876908,
+        "nonhealer_mean": -0.13552744934956226
+      },
+      "F6_res": {
+        "diff": 0.18923297176758447,
+        "p_two_sided_exact": 0.07142857142857142,
+        "n_perm": 56,
+        "healer_mean": 0.04619753882288931,
+        "nonhealer_mean": -0.14303543294469515
+      },
+      "F7": {
+        "diff": 0.09236104935407634,
+        "p_two_sided_exact": 0.5535714285714286,
+        "n_perm": 56,
+        "healer_mean": 0.033451640605926515,
+        "nonhealer_mean": -0.05890940874814982
+      },
+      "F7_res": {
+        "diff": 0.08629248427848019,
+        "p_two_sided_exact": 0.42857142857142855,
+        "n_perm": 56,
+        "healer_mean": 0.013001396134495738,
+        "nonhealer_mean": -0.07329108814398445
+      },
+      "F7e": {
+        "diff": 0.22441899826129275,
+        "p_two_sided_exact": 0.375,
+        "n_perm": 56,
+        "healer_mean": 0.08812020272016526,
+        "nonhealer_mean": -0.13629879554112748
+      },
+      "F7e_res": {
+        "diff": 0.2134185574948787,
+        "p_two_sided_exact": 0.08928571428571429,
+        "n_perm": 56,
+        "healer_mean": 0.05105025246739388,
+        "nonhealer_mean": -0.16236830502748484
+      },
+      "F1": {
+        "diff": -0.21259557828307152,
+        "p_two_sided_exact": 0.19642857142857142,
+        "n_perm": 56,
+        "healer_mean": -0.03290361538529395,
+        "nonhealer_mean": 0.17969196289777756
+      },
+      "F1_res": {
+        "diff": -0.2164133614550034,
+        "p_two_sided_exact": 0.17857142857142858,
+        "n_perm": 56,
+        "healer_mean": -0.04576902352273464,
+        "nonhealer_mean": 0.17064433793226877
+      },
+      "F5": {
+        "diff": -0.04993455447256561,
+        "p_two_sided_exact": 0.16071428571428573,
+        "n_perm": 56,
+        "healer_mean": -0.010999396070837941,
+        "nonhealer_mean": 0.03893515840172767
+      },
+      "F5_res": {
+        "diff": -0.050578273859961526,
+        "p_two_sided_exact": 0.125,
+        "n_perm": 56,
+        "healer_mean": -0.013168636115733498,
+        "nonhealer_mean": 0.03740963774422803
+      },
+      "F6i": {
+        "diff": 0.26012841748694576,
+        "p_two_sided_exact": 0.03571428571428571,
+        "n_perm": 56,
+        "healer_mean": 0.07088626064360144,
+        "nonhealer_mean": -0.1892421568433443
+      },
+      "F6i_res": {
+        "diff": 0.2561504960060119,
+        "p_two_sided_exact": 0.10714285714285714,
+        "n_perm": 56,
+        "healer_mean": 0.05748122632503505,
+        "nonhealer_mean": -0.19866926968097684
+      }
+    },
+    "umi": {
+      "diff": 1361.8873697916679,
+      "p_two_sided_exact": 0.8214285714285714,
+      "healer_mean": 26507.041015625,
+      "nonhealer_mean": 25145.153645833332
+    }
+  },
+  "GSE223964": {
+    "n_diabetic": 5,
+    "n_nondiabetic": 3,
+    "unit": "libraries",
+    "contrast": "diabetic vs non-diabetic ulcer (disease status, not healing outcome)",
+    "tests": {
+      "F6": {
+        "diff": 0.12170253003608253,
+        "p_two_sided_exact": 0.5178571428571429,
+        "n_perm": 56,
+        "diabetic_mean": -0.01929192806713268,
+        "nondiabetic_mean": -0.1409944581032152
+      },
+      "F7": {
+        "diff": 0.4384666699841288,
+        "p_two_sided_exact": 0.07142857142857142,
+        "n_perm": 56,
+        "diabetic_mean": 0.11730683220706828,
+        "nondiabetic_mean": -0.32115983777706053
+      },
+      "F7e": {
+        "diff": 0.7909262772624,
+        "p_two_sided_exact": 0.07142857142857142,
+        "n_perm": 56,
+        "diabetic_mean": 0.14371615210287064,
+        "nondiabetic_mean": -0.6472101251595292
+      },
+      "F1": {
+        "diff": -0.21305420625928867,
+        "p_two_sided_exact": 0.3392857142857143,
+        "n_perm": 56,
+        "diabetic_mean": -0.06252168928938465,
+        "nondiabetic_mean": 0.15053251696990402
+      },
+      "F5": {
+        "diff": -0.601579081249988,
+        "p_two_sided_exact": 0.10714285714285714,
+        "n_perm": 56,
+        "diabetic_mean": -0.01413401898535962,
+        "nondiabetic_mean": 0.5874450622646284
+      },
+      "F6i": {
+        "diff": 0.0648717815682911,
+        "p_two_sided_exact": 0.7678571428571429,
+        "n_perm": 56,
+        "diabetic_mean": -0.025959839397517892,
+        "nondiabetic_mean": -0.09083162096580899
+      }
+    }
+  }
+}
