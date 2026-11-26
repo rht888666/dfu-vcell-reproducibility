@@ -1,0 +1,260 @@
+{
+  "tar_h5_count": 16,
+  "local_h5_count": 16,
+  "mapping": [
+    {
+      "h5": "GSM7717016_Skin",
+      "n_h5": 880,
+      "match": "Donor2_Wound30",
+      "fwd_overlap": 803,
+      "fwd_cov": 0.9125,
+      "rev_cov": 0.364172335600907,
+      "donor": "Donor2",
+      "cond": "Wound30",
+      "oid": "P20063_104",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM7717017_Wound1",
+      "n_h5": 1745,
+      "match": "Donor4_Wound1",
+      "fwd_overlap": 1608,
+      "fwd_cov": 0.9214899713467049,
+      "rev_cov": 1.0,
+      "donor": "Donor4",
+      "cond": "Wound1",
+      "oid": "P20063_110",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM7717018_Wound7",
+      "n_h5": 1334,
+      "match": "Donor4_Wound7",
+      "fwd_overlap": 1212,
+      "fwd_cov": 0.9085457271364318,
+      "rev_cov": 1.0,
+      "donor": "Donor4",
+      "cond": "Wound7",
+      "oid": "P20063_111",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM7717019_Wound30",
+      "n_h5": 1996,
+      "match": "Donor4_Wound30",
+      "fwd_overlap": 1777,
+      "fwd_cov": 0.8902805611222445,
+      "rev_cov": 1.0,
+      "donor": "Donor4",
+      "cond": "Wound30",
+      "oid": "P20063_112",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238462_P17401_1001",
+      "n_h5": 1382,
+      "match": "Donor2_Wound30",
+      "fwd_overlap": 1002,
+      "fwd_cov": 0.7250361794500724,
+      "rev_cov": 0.454421768707483,
+      "donor": "Donor2",
+      "cond": "Wound30",
+      "oid": "P20063_104",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238463_P17401_1002",
+      "n_h5": 2050,
+      "match": "Donor1_Wound1",
+      "fwd_overlap": 1832,
+      "fwd_cov": 0.8936585365853659,
+      "rev_cov": 1.0,
+      "donor": "Donor1",
+      "cond": "Wound1",
+      "oid": "P17401_1002",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238464_P17401_1003",
+      "n_h5": 1802,
+      "match": "Donor1_Wound7",
+      "fwd_overlap": 1689,
+      "fwd_cov": 0.937291897891232,
+      "rev_cov": 1.0,
+      "donor": "Donor1",
+      "cond": "Wound7",
+      "oid": "P17401_1003",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238465_P17401_1004",
+      "n_h5": 1354,
+      "match": "Donor1_Wound30",
+      "fwd_overlap": 1278,
+      "fwd_cov": 0.9438700147710487,
+      "rev_cov": 1.0,
+      "donor": "Donor1",
+      "cond": "Wound30",
+      "oid": "P17401_1004",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238466_P20063_101",
+      "n_h5": 914,
+      "match": "Donor2_Skin",
+      "fwd_overlap": 842,
+      "fwd_cov": 0.9212253829321663,
+      "rev_cov": 1.0,
+      "donor": "Donor2",
+      "cond": "Skin",
+      "oid": "P20063_101",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238467_P20063_102",
+      "n_h5": 1901,
+      "match": "Donor2_Wound1",
+      "fwd_overlap": 1758,
+      "fwd_cov": 0.9247764334560757,
+      "rev_cov": 1.0,
+      "donor": "Donor2",
+      "cond": "Wound1",
+      "oid": "P20063_102",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238468_P20063_103",
+      "n_h5": 1953,
+      "match": "Donor2_Wound7",
+      "fwd_overlap": 1606,
+      "fwd_cov": 0.8223246287762417,
+      "rev_cov": 1.0,
+      "donor": "Donor2",
+      "cond": "Wound7",
+      "oid": "P20063_103",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238469_P20063_104",
+      "n_h5": 2364,
+      "match": "Donor2_Wound30",
+      "fwd_overlap": 2205,
+      "fwd_cov": 0.932741116751269,
+      "rev_cov": 1.0,
+      "donor": "Donor2",
+      "cond": "Wound30",
+      "oid": "P20063_104",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238470_P20063_105",
+      "n_h5": 793,
+      "match": "Donor1_Wound7",
+      "fwd_overlap": 728,
+      "fwd_cov": 0.9180327868852459,
+      "rev_cov": 0.43102427471876853,
+      "donor": "Donor1",
+      "cond": "Wound7",
+      "oid": "P17401_1003",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238471_P20063_106",
+      "n_h5": 1507,
+      "match": "Donor3_Wound1",
+      "fwd_overlap": 1317,
+      "fwd_cov": 0.873921698739217,
+      "rev_cov": 1.0,
+      "donor": "Donor3",
+      "cond": "Wound1",
+      "oid": "P20063_106",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238472_P20063_107",
+      "n_h5": 1749,
+      "match": "Donor2_Wound30",
+      "fwd_overlap": 1539,
+      "fwd_cov": 0.8799313893653516,
+      "rev_cov": 0.6979591836734694,
+      "donor": "Donor2",
+      "cond": "Wound30",
+      "oid": "P20063_104",
+      "one_to_one": false
+    },
+    {
+      "h5": "GSM8238473_P20063_108",
+      "n_h5": 2245,
+      "match": "Donor3_Wound30",
+      "fwd_overlap": 2019,
+      "fwd_cov": 0.8993318485523385,
+      "rev_cov": 1.0,
+      "donor": "Donor3",
+      "cond": "Wound30",
+      "oid": "P20063_108",
+      "one_to_one": false
+    }
+  ],
+  "real_design": {
+    "Donor1": {
+      "Skin": "Donor1_Skin",
+      "Wound1": "Donor1_Wound1",
+      "Wound7": "Donor1_Wound7",
+      "Wound30": "Donor1_Wound30"
+    },
+    "Donor2": {
+      "Skin": "Donor2_Skin",
+      "Wound1": "Donor2_Wound1",
+      "Wound7": "Donor2_Wound7",
+      "Wound30": "Donor2_Wound30"
+    },
+    "Donor3": {
+      "Skin": "Donor3_Skin",
+      "Wound1": "Donor3_Wound1",
+      "Wound7": "Donor3_Wound7",
+      "Wound30": "Donor3_Wound30"
+    },
+    "Donor4": {
+      "Skin": "Donor4_Skin",
+      "Wound1": "Donor4_Wound1",
+      "Wound7": "Donor4_Wound7",
+      "Wound30": "Donor4_Wound30"
+    }
+  },
+  "conflicts": [
+    {
+      "gsm": "GSM7717016",
+      "geo_title": "Donor4-Skin",
+      "metadata": "Donor2-Wound30",
+      "oid": "P20063_104",
+      "rev_cov": 0.364172335600907
+    },
+    {
+      "gsm": "GSM8238462",
+      "geo_title": "Donor1-Skin",
+      "metadata": "Donor2-Wound30",
+      "oid": "P20063_104",
+      "rev_cov": 0.454421768707483
+    },
+    {
+      "gsm": "GSM8238470",
+      "geo_title": "Donor3-Skin",
+      "metadata": "Donor1-Wound7",
+      "oid": "P17401_1003",
+      "rev_cov": 0.43102427471876853
+    },
+    {
+      "gsm": "GSM8238472",
+      "geo_title": "Donor3-Wound7",
+      "metadata": "Donor2-Wound30",
+      "oid": "P20063_104",
+      "rev_cov": 0.6979591836734694
+    }
+  ],
+  "true_independent_donors": [
+    "Donor1",
+    "Donor2",
+    "Donor3",
+    "Donor4"
+  ]
+}

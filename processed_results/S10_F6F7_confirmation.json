@@ -1,0 +1,11 @@
+{
+  "A1_F6_orig_umi_rho": 0.3735083524111548,
+  "A1_F6_icaf_umi_rho": 0.4176138509017166,
+  "A1_F7_orig_umi_rho": 0.5664624286692986,
+  "A1_F7_ecm_umi_rho": 0.5444066671895577,
+  "A1_F2_orig_umi_rho": 0.585386249097779,
+  "perm_F6_icaf_H_vs_NH_p": 0.0194,
+  "perm_F7_ecm_H_vs_NH_p": 0.0026,
+  "perm_F7_contractile_H_vs_NH_p": 0.0002,
+  "perm_F7_orig_H_vs_NH_p": 0.0
+}

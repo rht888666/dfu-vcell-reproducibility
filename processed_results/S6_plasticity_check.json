@@ -1,0 +1,37 @@
+{
+  "A2a_center_plasticity_r": 0.3489062190055847,
+  "A2a_center_varmean_r": 0.7715770806186635,
+  "A2a_forearm_plasticity_r": 0.3315674662590027,
+  "A2a_forearm_varmean_r": 0.8292838969856337,
+  "A2a_dir_plasticity_r": 0.041810039430856705,
+  "A2a_dir_varmean_r": -0.03660876617799678,
+  "A2b_rank_rho_plastic_vs_center": -0.7067027451253102,
+  "A2c_center_rank_rho_after_orth": 0.494379608633994,
+  "A2c_center_top10_after_orth": [
+    "HELZ2",
+    "FOXJ1",
+    "JDP2",
+    "FOXE1",
+    "KLF5",
+    "MXI1",
+    "TBX3",
+    "SATB2",
+    "DLX3",
+    "NKX3-1"
+  ],
+  "A2c_forearm_rank_rho_after_orth": 0.4247182974411448,
+  "A2c_forearm_top10_after_orth": [
+    "HELZ2",
+    "FOXJ1",
+    "FOXE1",
+    "JDP2",
+    "DLX3",
+    "MXI1",
+    "TBX3",
+    "NKX3-1",
+    "JUN",
+    "SOX15"
+  ],
+  "A3_half_vs_full_r": 0.5777686238288879,
+  "verdict": "REAL: 真目标方向独立于可塑性"
+}

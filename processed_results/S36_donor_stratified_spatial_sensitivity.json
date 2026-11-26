@@ -1,0 +1,228 @@
+{
+  "wound7_donor_level": {
+    "Wound7": {
+      "F6": {
+        "Donor1": {
+          "rho": -0.17810566523121074,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1689,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238464_P17401_1003"
+          ]
+        },
+        "Donor2": {
+          "rho": -0.10861627350612572,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1606,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238468_P20063_103"
+          ]
+        },
+        "Donor3": {
+          "rho": -0.20482103556937453,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1537,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238472_P20063_107"
+          ]
+        },
+        "Donor4": {
+          "rho": -0.24564660300061314,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1212,
+          "n_sections": 1,
+          "sections": [
+            "GSM7717018_Wound7"
+          ]
+        }
+      },
+      "F7": {
+        "Donor1": {
+          "rho": 0.30451120441598134,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1689,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238464_P17401_1003"
+          ]
+        },
+        "Donor2": {
+          "rho": 0.2906753470453297,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1606,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238468_P20063_103"
+          ]
+        },
+        "Donor3": {
+          "rho": 0.07760505798645244,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1537,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238472_P20063_107"
+          ]
+        },
+        "Donor4": {
+          "rho": 0.4635716269588492,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1212,
+          "n_sections": 1,
+          "sections": [
+            "GSM7717018_Wound7"
+          ]
+        }
+      },
+      "F7e": {
+        "Donor1": {
+          "rho": 0.2669658154333186,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1689,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238464_P17401_1003"
+          ]
+        },
+        "Donor2": {
+          "rho": 0.21249598654237406,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1606,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238468_P20063_103"
+          ]
+        },
+        "Donor3": {
+          "rho": -0.045987001019115105,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1537,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238472_P20063_107"
+          ]
+        },
+        "Donor4": {
+          "rho": 0.34812414536912883,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1212,
+          "n_sections": 1,
+          "sections": [
+            "GSM7717018_Wound7"
+          ]
+        }
+      },
+      "F1": {
+        "Donor1": {
+          "rho": 0.2718928633001385,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1689,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238464_P17401_1003"
+          ]
+        },
+        "Donor2": {
+          "rho": 0.07445854495143167,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1606,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238468_P20063_103"
+          ]
+        },
+        "Donor3": {
+          "rho": 0.22695003196595273,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1537,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238472_P20063_107"
+          ]
+        },
+        "Donor4": {
+          "rho": 0.15922064810154773,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1212,
+          "n_sections": 1,
+          "sections": [
+            "GSM7717018_Wound7"
+          ]
+        }
+      },
+      "F5": {
+        "Donor1": {
+          "rho": 0.3802755450212248,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1689,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238464_P17401_1003"
+          ]
+        },
+        "Donor2": {
+          "rho": 0.19474170534456758,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1606,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238468_P20063_103"
+          ]
+        },
+        "Donor3": {
+          "rho": 0.3839296669091467,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1537,
+          "n_sections": 1,
+          "sections": [
+            "GSM8238472_P20063_107"
+          ]
+        },
+        "Donor4": {
+          "rho": 0.07595926439139548,
+          "p_cellspot_descriptive": NaN,
+          "n_spots": 1212,
+          "n_sections": 1,
+          "sections": [
+            "GSM7717018_Wound7"
+          ]
+        }
+      }
+    }
+  },
+  "wound7_f6_section_level": [
+    {
+      "donor": "Donor1",
+      "section": "GSM8238464_P17401_1003",
+      "rho": -0.17810566523121074,
+      "p_descriptive": NaN,
+      "n_spots": 1689
+    },
+    {
+      "donor": "Donor2",
+      "section": "GSM8238468_P20063_103",
+      "rho": -0.10861627350612572,
+      "p_descriptive": NaN,
+      "n_spots": 1606
+    },
+    {
+      "donor": "Donor3",
+      "section": "GSM8238472_P20063_107",
+      "rho": -0.20482103556937453,
+      "p_descriptive": NaN,
+      "n_spots": 1537
+    },
+    {
+      "donor": "Donor4",
+      "section": "GSM7717018_Wound7",
+      "rho": -0.24564660300061314,
+      "p_descriptive": NaN,
+      "n_spots": 1212
+    }
+  ],
+  "n_sections_total": 4,
+  "n_sections_f6_negative": 4
+}

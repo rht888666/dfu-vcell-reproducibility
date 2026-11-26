@@ -1,0 +1,362 @@
+{
+  "n_genes_southard": 4914,
+  "n_genes_dfu": 18450,
+  "n_intersect": 4827,
+  "versions": {
+    "V1": {
+      "n_tf": 213,
+      "n_genes": 4827
+    },
+    "V2": {
+      "n_tf": 231,
+      "n_genes": 4827
+    },
+    "V3": {
+      "n_tf": 1837,
+      "n_genes": 4827
+    }
+  },
+  "dfu_tf_coverage": {
+    "HIF1A": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "EPAS1": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "ARNT": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "VHL": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "SMAD2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "SMAD3": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "SMAD4": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "SNAI1": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "SNAI2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "TWIST1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "ZEB1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "ZEB2": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "FOXO1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "FOXO3": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "PPARG": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "TCF7L2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "HNF1A": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "HNF4A": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF2": {
+      "V1": false,
+      "V2": true,
+      "V3": true
+    },
+    "KLF3": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "KLF4": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF5": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "KLF6": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF7": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF9": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF10": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "KLF11": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "PLAG1": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "PLAGL1": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "PLAGL2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "NFKB1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "NFKB2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "RELA": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "STAT1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "STAT3": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "STAT6": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "CEBPB": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "CEBPD": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "MYC": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "TP53": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "JUN": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "JUNB": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "FOS": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "ATF3": {
+      "V1": false,
+      "V2": true,
+      "V3": true
+    },
+    "EGR1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "SP1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "YY1": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "NFE2L2": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "GRHL2": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "GRHL3": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "TP63": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "SMAD1": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "SMAD5": {
+      "V1": true,
+      "V2": true,
+      "V3": true
+    },
+    "SMAD7": {
+      "V1": false,
+      "V2": false,
+      "V3": true
+    },
+    "TGFBR1": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "TGFBR2": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "MMP1": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "MMP3": {
+      "V1": false,
+      "V2": true,
+      "V3": true
+    },
+    "MMP9": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "IL6": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "CXCL8": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "TNF": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "CXCL10": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "CCL2": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "VEGFA": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "COL1A1": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    },
+    "COL3A1": {
+      "V1": false,
+      "V2": false,
+      "V3": false
+    }
+  },
+  "coverage_summary": {
+    "V3": 54,
+    "V2": 17,
+    "V1": 14,
+    "total": 67
+  }
+}

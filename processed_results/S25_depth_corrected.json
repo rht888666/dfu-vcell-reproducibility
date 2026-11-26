@@ -1,0 +1,87 @@
+{
+  "R1": {
+    "raw": {
+      "F6_orig": {
+        "Healthy": -0.0735,
+        "DiabeticNoDFU": -0.0893,
+        "Healer": 0.1247,
+        "NonHealer": -0.029
+      },
+      "F7_orig": {
+        "Healthy": -0.1757,
+        "DiabeticNoDFU": -0.0907,
+        "Healer": 0.1336,
+        "NonHealer": -0.1485
+      },
+      "F7_ecm": {
+        "Healthy": -0.1905,
+        "DiabeticNoDFU": -0.119,
+        "Healer": 0.1099,
+        "NonHealer": -0.1955
+      }
+    },
+    "resid": {
+      "F6_orig": {
+        "Healthy": -0.056,
+        "DiabeticNoDFU": -0.0739,
+        "Healer": 0.0813,
+        "NonHealer": -0.0225
+      },
+      "F7_orig": {
+        "Healthy": -0.1403,
+        "DiabeticNoDFU": -0.0595,
+        "Healer": 0.0459,
+        "NonHealer": -0.1353
+      },
+      "F7_ecm": {
+        "Healthy": -0.1414,
+        "DiabeticNoDFU": -0.0757,
+        "Healer": -0.0118,
+        "NonHealer": -0.1774
+      }
+    }
+  },
+  "R2": {
+    "F6_orig": {
+      "raw_obs": 0.1536737446155813,
+      "raw_p": 0.0695930406959304,
+      "resid_obs": 0.1038583302559952,
+      "resid_p": 0.1277872212778722
+    },
+    "F7_orig": {
+      "raw_obs": 0.282061957857675,
+      "raw_p": 0.0026997300269973002,
+      "resid_obs": 0.18127399126274718,
+      "resid_p": 0.05549445055494451
+    },
+    "F7_ecm": {
+      "raw_obs": 0.305468675473498,
+      "raw_p": 0.0225977402259774,
+      "resid_obs": 0.16558845755126742,
+      "resid_p": 0.23017698230176983
+    },
+    "F1_orig": {
+      "raw_obs": -0.04562229771787922,
+      "raw_p": 0.7346265373462654,
+      "resid_obs": -0.08631648189491696,
+      "resid_p": 0.8796120387961204
+    },
+    "F5_orig": {
+      "raw_obs": 0.010913909847537671,
+      "raw_p": 0.5182481751824818,
+      "resid_obs": -0.0026685521834426476,
+      "resid_p": 0.5828417158284172
+    },
+    "progress_RAW": {
+      "obs": 0.341239900710109,
+      "p": 0.025697430256974303,
+      "umi_rho": 0.6128055291375489
+    },
+    "progress_RESID": {
+      "obs": 0.17412811000326278,
+      "p": 0.14328567143285673,
+      "umi_rho": -0.391769286998384
+    }
+  },
+  "verdict": "SIGNAL_DIES_UNDER_DEPTH_CORRECTION"
+}

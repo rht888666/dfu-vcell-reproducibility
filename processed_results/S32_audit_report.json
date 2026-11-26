@@ -1,0 +1,553 @@
+{
+  "results": [
+    {
+      "tag": "S2.3 spots 22915",
+      "manuscript": "22915",
+      "json": "22915",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 donors 4",
+      "manuscript": "4",
+      "json": "4",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 sections 16",
+      "manuscript": "16",
+      "json": "16",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7e temporal rho 0.470",
+      "manuscript": "0.47",
+      "json": "0.4703845812582839",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7e temporal p 0.002",
+      "manuscript": "0.002",
+      "json": "0.001999000499750125",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7 temporal rho 0.361",
+      "manuscript": "0.361",
+      "json": "0.36121787614790635",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7 temporal p 0.238",
+      "manuscript": "0.238",
+      "json": "0.23788105947026486",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F1 temporal p 0.687",
+      "manuscript": "0.687",
+      "json": "0.6871564217891054",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F5 temporal p 0.976",
+      "manuscript": "0.976",
+      "json": "0.9760119940029985",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "null sd 0.125",
+      "manuscript": "0.125",
+      "json": "0.12500136433195833",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 delta 0.703",
+      "manuscript": "0.703",
+      "json": "0.7033498840006414",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 p_perm 0.0005",
+      "manuscript": "0.0005",
+      "json": "0.0004997501249375312",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 vs-random p 0.025",
+      "manuscript": "0.025",
+      "json": "0.02498750624687656",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "Abstract F6 rho -0.28 (donor mean)",
+      "manuscript": "-0.28",
+      "json": "-0.27961834802629043",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6 rho -0.177 vs donor1",
+      "manuscript": "-0.177",
+      "json": "-0.1771179100235073",
+      "ok": true,
+      "note": "matches Donor1 slice group; NOT the S29b \"Skin\" timepoint (-0.1198)"
+    },
+    {
+      "tag": "T3 F6 rho -0.177 vs S29b Skin tp",
+      "manuscript": "-0.177",
+      "json": "-0.11976618695344918",
+      "ok": false,
+      "note": "MISMATCH - manuscript mixes two conventions"
+    },
+    {
+      "tag": "T3 F6 p 0.0002 vs S29b Skin tp",
+      "manuscript": "0.0002",
+      "json": "0.00028428286521164914",
+      "ok": true,
+      "note": "Skin tp p=0.000284"
+    },
+    {
+      "tag": "T3 F6 z -3.7 vs S29b Skin tp z",
+      "manuscript": "-3.7",
+      "json": "-3.629216393109639",
+      "ok": false,
+      "note": "Skin z=-3.63 ; Wound7 z=-3.73"
+    },
+    {
+      "tag": "S2.3 F6-F5 @D7 rho -0.379",
+      "manuscript": "-0.379",
+      "json": "-0.37858220579329316",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F6-F5 @D7 p 0.005",
+      "manuscript": "0.005",
+      "json": "0.004995967379704203",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F6-F1 @D7 rho -0.305",
+      "manuscript": "-0.305",
+      "json": "-0.30491810319819335",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F6-F1 @D7 p 0.029",
+      "manuscript": "0.029",
+      "json": "0.029064256311768233",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F7 rho +0.332",
+      "manuscript": "0.332",
+      "json": "0.3514190146603456",
+      "ok": false,
+      "note": "Wound7_F7=+0.351"
+    },
+    {
+      "tag": "T3 F7 p 0.058",
+      "manuscript": "0.058",
+      "json": "0.05833398615293861",
+      "ok": true,
+      "note": "Wound7_F7 p=0.0583"
+    },
+    {
+      "tag": "T3 F7e rho +0.229",
+      "manuscript": "0.229",
+      "json": "0.15670870946152865",
+      "ok": false,
+      "note": "Wound7_F7e=+0.157"
+    },
+    {
+      "tag": "T3 F7e p 0.805",
+      "manuscript": "0.805",
+      "json": "0.8045712123827058",
+      "ok": true,
+      "note": "Wound7_F7e p=0.8046"
+    },
+    {
+      "tag": "T3 F1 rho +0.197",
+      "manuscript": "0.197",
+      "json": "0.2521409455417704",
+      "ok": false,
+      "note": "Wound7_F1=+0.252"
+    },
+    {
+      "tag": "T3 F1 p 0.423",
+      "manuscript": "0.423",
+      "json": "0.4227081052299433",
+      "ok": true,
+      "note": "Wound7_F1 p=0.4227"
+    },
+    {
+      "tag": "T3 F5 rho +0.270",
+      "manuscript": "0.27",
+      "json": "0.3500602818032506",
+      "ok": false,
+      "note": "Wound7_F5=+0.350"
+    },
+    {
+      "tag": "T3 F5 p 0.060",
+      "manuscript": "0.06",
+      "json": "0.06034807730694269",
+      "ok": true,
+      "note": "Wound7_F5 p=0.0603"
+    },
+    {
+      "tag": "T1 F6 PWH26 -0.430",
+      "manuscript": "-0.43",
+      "json": "-0.4300264597885928",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6 PWH27 -0.435",
+      "manuscript": "-0.435",
+      "json": "-0.4347943447470861",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6 PWH28 -0.475",
+      "manuscript": "-0.475",
+      "json": "-0.47482350301735693",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6 mean -0.447",
+      "manuscript": "-0.447",
+      "json": "-0.44654810251767857",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6i mean -0.500",
+      "manuscript": "-0.5",
+      "json": "-0.5001531772420389",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F7 mean +0.486",
+      "manuscript": "0.486",
+      "json": "0.44551292521260405",
+      "ok": false,
+      "note": ""
+    },
+    {
+      "tag": "T1 F7e mean +0.521",
+      "manuscript": "0.521",
+      "json": "0.48333227118231603",
+      "ok": false,
+      "note": ""
+    },
+    {
+      "tag": "S2.2 F7 PWH26 +0.42",
+      "manuscript": "0.42",
+      "json": "0.2478432355988085",
+      "ok": false,
+      "note": "JSON=+0.248"
+    },
+    {
+      "tag": "S2.2 F7 PWH27 +0.53",
+      "manuscript": "0.53",
+      "json": "0.541977485977648",
+      "ok": false,
+      "note": ""
+    },
+    {
+      "tag": "S2.2 F7 PWH28 +0.51",
+      "manuscript": "0.51",
+      "json": "0.5467180540613555",
+      "ok": false,
+      "note": ""
+    },
+    {
+      "tag": "S2.2 R_bar 0.991",
+      "manuscript": "0.991",
+      "json": "0.9909689161745767",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.2 mean angle +119.1",
+      "manuscript": "119.1",
+      "json": "117.76022191841271",
+      "ok": false,
+      "note": "JSON=117.76"
+    },
+    {
+      "tag": "S2.5 Healthy n",
+      "manuscript": "11",
+      "json": "11",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healthy progress",
+      "manuscript": "0.282",
+      "json": "0.2817734293357055",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 DiabeticNoDFU n",
+      "manuscript": "6",
+      "json": "6",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 DiabeticNoDFU progress",
+      "manuscript": "0.59",
+      "json": "0.5902555760283581",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healer n",
+      "manuscript": "9",
+      "json": "9",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healer progress",
+      "manuscript": "0.64",
+      "json": "0.6402943052428224",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 NonHealer n",
+      "manuscript": "5",
+      "json": "5",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 NonHealer progress",
+      "manuscript": "0.299",
+      "json": "0.2990544045327133",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healer-NonHealer obs 0.341",
+      "manuscript": "0.341",
+      "json": "0.34123990071010907",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 raw p 0.026",
+      "manuscript": "0.026",
+      "json": "0.0244975502449755",
+      "ok": false,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw obs",
+      "manuscript": "0.341",
+      "json": "0.341239900710109",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw p",
+      "manuscript": "0.026",
+      "json": "0.025697430256974303",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw rho",
+      "manuscript": "0.613",
+      "json": "0.6128055291375489",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 d_matched obs",
+      "manuscript": "0.309",
+      "json": "0.3091215271522023",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 d_matched p",
+      "manuscript": "0.025",
+      "json": "0.024697530246975304",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 obs",
+      "manuscript": "0.178",
+      "json": "0.17816927272585287",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 p",
+      "manuscript": "0.084",
+      "json": "0.08439156084391561",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 rho",
+      "manuscript": "0.504",
+      "json": "0.5036290322580645",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid obs",
+      "manuscript": "0.174",
+      "json": "0.17412811000326278",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid p",
+      "manuscript": "0.143",
+      "json": "0.14328567143285673",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid rho",
+      "manuscript": "-0.392",
+      "json": "-0.391769286998384",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid obs",
+      "manuscript": "0.336",
+      "json": "0.3359381688873675",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid p",
+      "manuscript": "0.108",
+      "json": "0.10768923107689231",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid rho",
+      "manuscript": "0.0",
+      "json": "0.0",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z obs",
+      "manuscript": "0.18",
+      "json": "0.18030082426812238",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z p",
+      "manuscript": "0.193",
+      "json": "0.1932806719328067",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z rho",
+      "manuscript": "0.11",
+      "json": "0.11031522148299355",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F6",
+      "manuscript": "0.128",
+      "json": "0.1277872212778722",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F7",
+      "manuscript": "0.056",
+      "json": "0.05549445055494451",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F7e",
+      "manuscript": "0.23",
+      "json": "0.23017698230176983",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F6",
+      "manuscript": "0.037",
+      "json": "0.03679264147170566",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F7",
+      "manuscript": "0.208",
+      "json": "0.20755848830233953",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F7e",
+      "manuscript": "0.033",
+      "json": "0.03259348130373925",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F6",
+      "manuscript": "0.268",
+      "json": "0.2675732426757324",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F7",
+      "manuscript": "0.047",
+      "json": "0.04689531046895311",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F7e",
+      "manuscript": "0.058",
+      "json": "0.0575942405759424",
+      "ok": true,
+      "note": ""
+    }
+  ],
+  "n_total": 78,
+  "n_ok": 65,
+  "n_bad": 13
+}

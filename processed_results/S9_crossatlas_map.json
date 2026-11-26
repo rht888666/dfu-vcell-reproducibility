@@ -1,0 +1,113 @@
+{
+  "n_fib_cells": 36120,
+  "n_patients": 31,
+  "F_marker_used": {
+    "F1_superficial": [
+      "COL13A1",
+      "COL23A1",
+      "SFRP2",
+      "CRABP1",
+      "WNT5A"
+    ],
+    "F2_universal": [
+      "PI16",
+      "CD34",
+      "MFAP5",
+      "DPT",
+      "COL15A1",
+      "SERPINF1"
+    ],
+    "F3_FRC_like": [
+      "CCL19",
+      "CD74",
+      "HLA-DRA",
+      "CCL21",
+      "TNFSF13B",
+      "IL7R"
+    ],
+    "F4_hair_follicle": [
+      "HHIP",
+      "WIF1",
+      "LEF1"
+    ],
+    "F5_Schwann_like": [
+      "SCN7A",
+      "SOX10",
+      "PLP1",
+      "NGFR",
+      "S100B"
+    ],
+    "F6_inflam_myofib": [
+      "CXCL8",
+      "MMP3",
+      "CHI3L1",
+      "CXCL1",
+      "CCL2"
+    ],
+    "F7_myofib": [
+      "LRRC15",
+      "SFRP4",
+      "ASPN",
+      "POSTN",
+      "CTHRC1",
+      "ACTA2",
+      "TAGLN"
+    ],
+    "F8_fascia_like": [
+      "FBN1",
+      "THBS2",
+      "FNDC1",
+      "POSTN"
+    ]
+  },
+  "patient_group_means": {
+    "F1_superficial": {
+      "DiabeticNoDFU": 0.00516,
+      "Healer": -0.00066,
+      "Healthy": 0.01056,
+      "NonHealer": -0.02531
+    },
+    "F2_universal": {
+      "DiabeticNoDFU": 0.083,
+      "Healer": 0.06012,
+      "Healthy": -0.05091,
+      "NonHealer": -0.03362
+    },
+    "F3_FRC_like": {
+      "DiabeticNoDFU": 0.02046,
+      "Healer": 0.04422,
+      "Healthy": -0.03619,
+      "NonHealer": 0.06261
+    },
+    "F4_hair_follicle": {
+      "DiabeticNoDFU": -0.00469,
+      "Healer": -0.0371,
+      "Healthy": 0.05652,
+      "NonHealer": -0.03568
+    },
+    "F5_Schwann_like": {
+      "DiabeticNoDFU": -0.02336,
+      "Healer": -0.03422,
+      "Healthy": 0.07256,
+      "NonHealer": -0.04146
+    },
+    "F6_inflam_myofib": {
+      "DiabeticNoDFU": -0.0425,
+      "Healer": 0.09902,
+      "Healthy": -0.03502,
+      "NonHealer": -0.01432
+    },
+    "F7_myofib": {
+      "DiabeticNoDFU": -0.04294,
+      "Healer": 0.13667,
+      "Healthy": -0.09126,
+      "NonHealer": -0.07441
+    },
+    "F8_fascia_like": {
+      "DiabeticNoDFU": -0.01851,
+      "Healer": 0.14531,
+      "Healthy": -0.10555,
+      "NonHealer": -0.06309
+    }
+  }
+}

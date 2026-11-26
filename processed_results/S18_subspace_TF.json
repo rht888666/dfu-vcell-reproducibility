@@ -1,0 +1,56 @@
+{
+  "coverage": {
+    "F6": 2,
+    "F6i": 1,
+    "F7": 3,
+    "F7e": 5,
+    "Li26": 23
+  },
+  "top10": {
+    "F7": [
+      "EOMES",
+      "GLI1",
+      "HAND1",
+      "ZEB2",
+      "FOXC2",
+      "ZNF296",
+      "SALL3",
+      "TBX21",
+      "TBX5",
+      "ZBTB22"
+    ],
+    "F7e": [
+      "EGR3",
+      "ZNF827",
+      "GATA6",
+      "TP73",
+      "PLAGL1",
+      "CDX2",
+      "EBF1",
+      "EBF2",
+      "CEBPA",
+      "EGR2"
+    ],
+    "Li26": [
+      "ZNF827",
+      "EGR3",
+      "TP73",
+      "EBF2",
+      "ZEB2",
+      "ZNF462",
+      "CEBPA",
+      "GATA6",
+      "EGR2",
+      "MEF2A"
+    ]
+  },
+  "verdicts": {
+    "F7": [],
+    "F7e": [
+      "PLAGL1"
+    ],
+    "Li26": [
+      "PLAGL1"
+    ]
+  }
+}

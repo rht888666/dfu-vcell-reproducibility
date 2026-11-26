@@ -1,0 +1,112 @@
+{
+  "table": [
+    {
+      "cohort": "GSE165816",
+      "design": "横断面 DFU (主队列)",
+      "F6_p": 0.1277872212778722,
+      "F7_p": 0.05549445055494451,
+      "F7e_p": 0.23017698230176983,
+      "F1_p": 0.8796120387961204,
+      "F5_p": 0.5828417158284172,
+      "level": "patient",
+      "depth": "residualized",
+      "note": "S25"
+    },
+    {
+      "cohort": "GSE231643",
+      "design": "DFU 清创 (第2队列)",
+      "F6_p": 0.03679264147170566,
+      "F7_p": 0.20755848830233953,
+      "F7e_p": 0.03259348130373925,
+      "F1_p": 0.9098180363927214,
+      "F5_p": 0.9496100779844031,
+      "level": "patient",
+      "depth": "residualized",
+      "note": "S12"
+    },
+    {
+      "cohort": "GSE223964",
+      "design": "糖尿病/非糖尿病皮肤 (第3队列)",
+      "F6_p": 0.2675732426757324,
+      "F7_p": 0.04689531046895311,
+      "F7e_p": 0.0575942405759424,
+      "F1_p": 0.8534146585341466,
+      "F5_p": 0.9141085891410858,
+      "level": "sample",
+      "depth": "residualized",
+      "note": "S21-A"
+    },
+    {
+      "cohort": "GSE223964 (cell)",
+      "design": "同上, 细胞级(参考)",
+      "F6_p": 0.0001999600079984003,
+      "F7_p": 0.0001999600079984003,
+      "F7e_p": 0.0001999600079984003,
+      "F1_p": 1.0,
+      "F5_p": 1.0,
+      "level": "cell",
+      "depth": "residualized",
+      "note": "S21-A 细胞级"
+    },
+    {
+      "cohort": "GSE245703",
+      "design": "糖尿病创面 (第4队列)",
+      "F6_p": "NA",
+      "F7_p": "NA",
+      "F7e_p": "NA",
+      "F1_p": 0.0002,
+      "F5_p": "NA",
+      "level": "cell",
+      "depth": "residualized",
+      "note": "S21-B 已排除：F1 阴性对照也显著(p=0.0002) → 全局伪影"
+    }
+  ],
+  "verdicts": [
+    {
+      "cohort": "GSE165816",
+      "c1": false,
+      "c2": true,
+      "c3": false,
+      "verdict": "🟡 部分"
+    },
+    {
+      "cohort": "GSE231643",
+      "c1": true,
+      "c2": true,
+      "c3": true,
+      "verdict": "✅ 复现"
+    },
+    {
+      "cohort": "GSE223964",
+      "c1": true,
+      "c2": true,
+      "c3": true,
+      "verdict": "✅ 复现"
+    },
+    {
+      "cohort": "GSE223964 (cell)",
+      "c1": true,
+      "c2": true,
+      "c3": true,
+      "verdict": "✅ 复现"
+    },
+    {
+      "cohort": "GSE245703",
+      "c1": false,
+      "c2": false,
+      "c3": false,
+      "verdict": "❌ 已排除"
+    }
+  ],
+  "passed": [
+    "GSE231643",
+    "GSE223964",
+    "GSE223964 (cell)"
+  ],
+  "partial": [
+    "GSE165816"
+  ],
+  "excluded": [
+    "GSE245703"
+  ]
+}

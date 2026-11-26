@@ -1,0 +1,189 @@
+{
+  "n_guides": 10916,
+  "n_genes": 4914,
+  "n_tf": 1837,
+  "n_active": 726,
+  "n_masked_active": 661,
+  "prog_hits": {
+    "myofibroblast": {
+      "n_guides": 3,
+      "n_tf": 3
+    },
+    "universal": {
+      "n_guides": 7,
+      "n_tf": 7
+    },
+    "inflammatory": {
+      "n_guides": 4,
+      "n_tf": 4
+    }
+  },
+  "prog_tfs": {
+    "myofibroblast": {
+      "n_guides": 3,
+      "tfs": [
+        "FOXC1",
+        "FUBP1",
+        "RFX8"
+      ]
+    },
+    "universal": {
+      "n_guides": 7,
+      "tfs": [
+        "HMGB4",
+        "HNF4A",
+        "MTA1",
+        "MYNN",
+        "NCOR2",
+        "THAP3",
+        "ZNF449"
+      ]
+    },
+    "inflammatory": {
+      "n_guides": 4,
+      "tfs": [
+        "ESR2",
+        "HES2",
+        "HOXC4",
+        "TFAP2A"
+      ]
+    }
+  },
+  "dfu_coverage": {
+    "hypoxia": {
+      "hit": [
+        "EPAS1"
+      ],
+      "miss": [
+        "HIF1A",
+        "ARNT",
+        "VHL"
+      ]
+    },
+    "fibrosis": {
+      "hit": [
+        "SNAI1",
+        "ZEB2"
+      ],
+      "miss": [
+        "SMAD2",
+        "SMAD3",
+        "SMAD4",
+        "SNAI2",
+        "TWIST1",
+        "ZEB1"
+      ]
+    },
+    "diabetes": {
+      "hit": [],
+      "miss": [
+        "FOXO1",
+        "FOXO3",
+        "PPARG",
+        "TCF7L2",
+        "HNF1A",
+        "HNF4A"
+      ]
+    },
+    "southard": {
+      "hit": [
+        "KLF5",
+        "PLAG1",
+        "PLAGL1"
+      ],
+      "miss": [
+        "KLF2",
+        "KLF4",
+        "PLAGL2"
+      ]
+    },
+    "inflammation": {
+      "hit": [
+        "CEBPB"
+      ],
+      "miss": [
+        "NFKB1",
+        "NFKB2",
+        "RELA",
+        "STAT1",
+        "STAT3",
+        "STAT6"
+      ]
+    },
+    "master": {
+      "hit": [
+        "MYC",
+        "JUN",
+        "NFE2L2"
+      ],
+      "miss": [
+        "TP53",
+        "FOS",
+        "ATF3",
+        "EGR1",
+        "SP1",
+        "YY1"
+      ]
+    },
+    "repair": {
+      "hit": [],
+      "miss": [
+        "GRHL2",
+        "GRHL3",
+        "TP63"
+      ]
+    }
+  },
+  "top_strong_tfs": [
+    "HNRNPAB",
+    "EOMES",
+    "HES7",
+    "FOXC2",
+    "HNF1B",
+    "BBX",
+    "BCL11B",
+    "JUNB",
+    "HOXA13",
+    "GATA2",
+    "SOX11",
+    "TP73",
+    "HOXC13",
+    "PPARGC1A",
+    "NEUROD2",
+    "TOPORS",
+    "CASZ1",
+    "BCL11A",
+    "TFAP2E",
+    "FOXE1",
+    "FOXJ1",
+    "FLI1",
+    "PLAG1",
+    "LBX1",
+    "HELZ2",
+    "OVOL1",
+    "GATA6",
+    "HHEX",
+    "PLAGL1",
+    "STAT2",
+    "FOXD3",
+    "PRDM1",
+    "HMGN2",
+    "IRF1",
+    "ZBTB42",
+    "SOX18",
+    "IKZF5",
+    "CEBPA",
+    "BARX1",
+    "RUNX2",
+    "MYCN",
+    "FOXC1",
+    "FOXA3",
+    "NR4A1",
+    "MECOM",
+    "GATA4",
+    "OVOL2",
+    "NKX3-1",
+    "BSX",
+    "BID"
+  ]
+}

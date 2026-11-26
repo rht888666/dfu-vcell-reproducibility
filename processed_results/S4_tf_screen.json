@@ -1,0 +1,68 @@
+{
+  "n_genes": 4827,
+  "targets": [
+    "center",
+    "forearm",
+    "dir"
+  ],
+  "versions": [
+    "V1",
+    "V2",
+    "V3"
+  ],
+  "top20_V3_consensus": [
+    "REL",
+    "RBMS1",
+    "ARID2",
+    "FOXE3",
+    "MXI1",
+    "FOXE1",
+    "KLF2",
+    "FOXO6",
+    "ZNF223",
+    "DUX4",
+    "TAF2",
+    "BARX2",
+    "SKI",
+    "FLI1",
+    "ELK3",
+    "HINFP",
+    "ZNF69",
+    "NFATC3",
+    "MKX",
+    "THRA"
+  ],
+  "top20_v1_consensus": [
+    "FOXE1",
+    "LYL1",
+    "MXI1",
+    "NR4A1",
+    "HHEX",
+    "PPARGC1A",
+    "SOX8",
+    "EPAS1",
+    "GSC",
+    "BSX",
+    "FOXD2",
+    "RBMS1",
+    "LHX4",
+    "FOXE3",
+    "FOXA3",
+    "MYBL1",
+    "TFAP2E",
+    "SOX9",
+    "MKX",
+    "NKX3-1"
+  ],
+  "perm_p_max": 0.0,
+  "null_max_mean": 0.038785195825216924,
+  "obs_max": 0.1294785887002945,
+  "known_tf_ranks_V1_center": {
+    "KLF5": 1,
+    "PLAGL1": 146,
+    "NFE2L2": 147,
+    "EPAS1": 32,
+    "MYC": 213
+  },
+  "v1_v3_rank_rho": 0.8589638127483327
+}

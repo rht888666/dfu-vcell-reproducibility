@@ -1,0 +1,15 @@
+{
+  "T4_center_cos_mean": 0.017428763210773468,
+  "T4_center_cos_p": 2.920628849878426e-09,
+  "T4_center_cos_max": 0.1294785887002945,
+  "T4_forearm_cos_mean": 0.017345817759633064,
+  "T4_forearm_cos_p": 3.177609564364303e-10,
+  "T4_forearm_cos_max": 0.11599517613649368,
+  "T4_dir_cos_mean": -0.0043827383778989315,
+  "T4_dir_cos_p": 4.7736495616845787e-05,
+  "T4_dir_cos_max": 0.046962931752204895,
+  "T1_effect_ratio": 0.00010419391765026376,
+  "T1_disease_dist_mean": 72.94091796875,
+  "T5_klf5_cos_center": 0.0021762344986200333,
+  "verdict": "ORTHOGONAL: Southard 扰动谱与 DFU 疾病方向基本正交 → 直接桥接不成立"
+}

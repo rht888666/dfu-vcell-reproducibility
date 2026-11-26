@@ -1,0 +1,10 @@
+{
+  "n_spots": 20896,
+  "conditions": {
+    "Skin": 3077,
+    "Wound1": 6515,
+    "Wound7": 6044,
+    "Wound30": 5260
+  },
+  "note": "edge_dist in spot-diameter units, per-section"
+}

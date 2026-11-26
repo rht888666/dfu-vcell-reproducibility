@@ -1,0 +1,615 @@
+{
+  "results": [
+    {
+      "tag": "S2.3 spots 22,915",
+      "manuscript": "22915.0",
+      "json": "22915",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 4 donors x 4 tp",
+      "manuscript": "4.0",
+      "json": "4",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 16 sections",
+      "manuscript": "16.0",
+      "json": "16",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7e temporal rho 0.470",
+      "manuscript": "0.47",
+      "json": "0.4703845812582839",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7e p (S2.3)",
+      "manuscript": "0.002",
+      "json": "0.001999000499750125",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7 rho (S2.3)",
+      "manuscript": "0.361",
+      "json": "0.36121787614790635",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F7 p (S2.3)",
+      "manuscript": "0.238",
+      "json": "0.23788105947026486",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F1 p 0.687",
+      "manuscript": "0.687",
+      "json": "0.6871564217891054",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "F5 p 0.976",
+      "manuscript": "0.976",
+      "json": "0.9760119940029985",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "null sd 0.125",
+      "manuscript": "0.125",
+      "json": "0.12500136433195833",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 delta 0.703",
+      "manuscript": "0.703",
+      "json": "0.7033498840006414",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 p_perm 0.0005",
+      "manuscript": "0.0005",
+      "json": "0.0004997501249375312",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "FB1 vs-random 0.025",
+      "manuscript": "0.025",
+      "json": "0.02498750624687656",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "Abstract F6 -0.280",
+      "manuscript": "0.28",
+      "json": "0.27961834802629043",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F7e subtype delta 0.895",
+      "manuscript": "0.895",
+      "json": "0.8951715159671817",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F7e subtype p 0.0002",
+      "manuscript": "0.0002",
+      "json": "0.0001999600079984003",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F7 subtype delta 0.758",
+      "manuscript": "0.758",
+      "json": "0.7578282995797885",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 F7 subtype p 0.409",
+      "manuscript": "0.409",
+      "json": "0.40871825634873027",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.3 Smooth_muscle F7 0.510",
+      "manuscript": "0.51",
+      "json": "0.5101011094588435",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F7e donor-mean 0.483",
+      "manuscript": "0.483",
+      "json": "0.48333227118231603",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "tc F6 D0 +0.093",
+      "manuscript": "0.093",
+      "json": "0.092917",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "tc F6 D1 +0.171",
+      "manuscript": "0.171",
+      "json": "0.170956",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "tc F6 D30 -0.156",
+      "manuscript": "-0.156",
+      "json": "-0.156009",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "tc F7 D30 +0.261",
+      "manuscript": "0.261",
+      "json": "0.261244",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "monotonicity",
+      "manuscript": "False",
+      "json": "not monotone",
+      "ok": true
+    },
+    {
+      "tag": "T3 F6 rho -0.160",
+      "manuscript": "-0.16",
+      "json": "-0.16041857814358088",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6 p 0.00019",
+      "manuscript": "0.00019",
+      "json": "0.00018854932113732126",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6 z -3.73",
+      "manuscript": "-3.73",
+      "json": "-3.7338840537301476",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F7 rho",
+      "manuscript": "0.351",
+      "json": "0.3514190146603456",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F7 p",
+      "manuscript": "0.058",
+      "json": "0.05833398615293861",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F7e rho",
+      "manuscript": "0.157",
+      "json": "0.15670870946152865",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F7e p",
+      "manuscript": "0.805",
+      "json": "0.8045712123827058",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F1 rho",
+      "manuscript": "0.252",
+      "json": "0.2521409455417704",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F1 p",
+      "manuscript": "0.423",
+      "json": "0.4227081052299433",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F5 rho",
+      "manuscript": "0.35",
+      "json": "0.3500602818032506",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F5 p",
+      "manuscript": "0.06",
+      "json": "0.06034807730694269",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6-F5 @D7 rho",
+      "manuscript": "0.379",
+      "json": "0.37858220579329316",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6-F5 @D7 p",
+      "manuscript": "0.005",
+      "json": "0.004995967379704203",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6-F1 @D7 rho",
+      "manuscript": "0.305",
+      "json": "0.30491810319819335",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T3 F6-F1 @D7 p",
+      "manuscript": "0.029",
+      "json": "0.029064256311768233",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6i PWH26",
+      "manuscript": "-0.46",
+      "json": "-0.45960141169854535",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6i PWH27",
+      "manuscript": "-0.504",
+      "json": "-0.5044808086936688",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6i PWH28",
+      "manuscript": "-0.536",
+      "json": "-0.5363773113339024",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F6i mean",
+      "manuscript": "-0.5",
+      "json": "-0.5001531772420389",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F1 PWH26",
+      "manuscript": "-0.033",
+      "json": "-0.03322219982675094",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F1 PWH27",
+      "manuscript": "0.11",
+      "json": "0.1096478039281119",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F1 PWH28",
+      "manuscript": "-0.033",
+      "json": "-0.03280003511993773",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F1 mean",
+      "manuscript": "0.015",
+      "json": "0.014541856327141075",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F5 PWH26",
+      "manuscript": "0.138",
+      "json": "0.13763667212682407",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F5 PWH27",
+      "manuscript": "-0.037",
+      "json": "-0.03672760955337373",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F5 PWH28",
+      "manuscript": "-0.15",
+      "json": "-0.15018368349855074",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T1 F5 mean",
+      "manuscript": "-0.016",
+      "json": "-0.016424873641700134",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.2 R_bar 0.991",
+      "manuscript": "0.991",
+      "json": "0.9909689161745767",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healthy n",
+      "manuscript": "11.0",
+      "json": "11",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healthy progress",
+      "manuscript": "0.282",
+      "json": "0.2817734293357055",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 DiabeticNoDFU n",
+      "manuscript": "6.0",
+      "json": "6",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 DiabeticNoDFU progress",
+      "manuscript": "0.59",
+      "json": "0.5902555760283581",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healer n",
+      "manuscript": "9.0",
+      "json": "9",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 Healer progress",
+      "manuscript": "0.64",
+      "json": "0.6402943052428224",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 NonHealer n",
+      "manuscript": "5.0",
+      "json": "5",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "S2.5 NonHealer progress",
+      "manuscript": "0.299",
+      "json": "0.2990544045327133",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw obs",
+      "manuscript": "0.341",
+      "json": "0.341239900710109",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw p",
+      "manuscript": "0.026",
+      "json": "0.025697430256974303",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 raw rho",
+      "manuscript": "0.613",
+      "json": "0.6128055291375489",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 d_matched obs",
+      "manuscript": "0.309",
+      "json": "0.3091215271522023",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 d_matched p",
+      "manuscript": "0.025",
+      "json": "0.024697530246975304",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 obs",
+      "manuscript": "0.178",
+      "json": "0.17816927272585287",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 p",
+      "manuscript": "0.084",
+      "json": "0.08439156084391561",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 e_ratio_F7F6 rho",
+      "manuscript": "0.504",
+      "json": "0.5036290322580645",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid obs",
+      "manuscript": "0.174",
+      "json": "0.17412811000326278",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid p",
+      "manuscript": "0.143",
+      "json": "0.14328567143285673",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 a_lin_resid rho",
+      "manuscript": "-0.392",
+      "json": "-0.391769286998384",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid obs",
+      "manuscript": "0.336",
+      "json": "0.3359381688873675",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid p",
+      "manuscript": "0.108",
+      "json": "0.10768923107689231",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 b_rank_resid rho",
+      "manuscript": "0.0",
+      "json": "0.0",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z obs",
+      "manuscript": "0.18",
+      "json": "0.18030082426812238",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z p",
+      "manuscript": "0.193",
+      "json": "0.1932806719328067",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T5 c_stratum_z rho",
+      "manuscript": "0.11",
+      "json": "0.11031522148299355",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F6",
+      "manuscript": "0.128",
+      "json": "0.1277872212778722",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F7",
+      "manuscript": "0.056",
+      "json": "0.05549445055494451",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE165816 F7e",
+      "manuscript": "0.23",
+      "json": "0.23017698230176983",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F6",
+      "manuscript": "0.037",
+      "json": "0.03679264147170566",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F7",
+      "manuscript": "0.208",
+      "json": "0.20755848830233953",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE231643 F7e",
+      "manuscript": "0.033",
+      "json": "0.03259348130373925",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F6",
+      "manuscript": "0.268",
+      "json": "0.2675732426757324",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F7",
+      "manuscript": "0.047",
+      "json": "0.04689531046895311",
+      "ok": true,
+      "note": ""
+    },
+    {
+      "tag": "T4 GSE223964 F7e",
+      "manuscript": "0.058",
+      "json": "0.0575942405759424",
+      "ok": true,
+      "note": ""
+    }
+  ],
+  "n_total": 87,
+  "n_ok": 87,
+  "n_bad": 0
+}

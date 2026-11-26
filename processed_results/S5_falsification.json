@@ -1,0 +1,40 @@
+{
+  "B1_specific_tf_z3": 56,
+  "B1_specific_tf_z5": 18,
+  "B1_top10": [
+    "KLF5",
+    "HHEX",
+    "HELZ2",
+    "FOXE1",
+    "NKX3-1",
+    "FOXA3",
+    "BSX",
+    "PPARGC1A",
+    "PRDM1",
+    "MXI1"
+  ],
+  "C1_rank_rho_excl_markers": 0.9526662709460785,
+  "C1_top10_after_excl": [
+    "HELZ2",
+    "HHEX",
+    "KLF5",
+    "BSX",
+    "PPARGC1A",
+    "PRDM1",
+    "NKX3-1",
+    "MXI1",
+    "FOXE1",
+    "ARID3A"
+  ],
+  "A1_center_vs_express": 0.01834535039961338,
+  "A1_forearm_vs_express": 0.025143807753920555,
+  "A1_dir_vs_express": -0.006252488121390343,
+  "A1_tcenter_vs_var_mean": 0.7715770602226257,
+  "D1_perm_p": 0.0,
+  "D1_obs_max": 0.1294785887002945,
+  "verdict": {
+    "n_pass": 3,
+    "n_total": 3,
+    "interpretation": "REAL"
+  }
+}
