@@ -1,0 +1,72 @@
+{
+ "gates": {
+  "primary_S25_gate": {
+   "F7": {
+    "raw": {
+     "cell_r": 0.4978,
+     "lib_r": 0.5705
+    },
+    "lin": {
+     "cell_r": 0.0,
+     "lib_r": -0.1698
+    },
+    "rank": {
+     "cell_r": 0.0,
+     "lib_r": 0.0069
+    }
+   },
+   "F7e": {
+    "raw": {
+     "cell_r": 0.5124,
+     "lib_r": 0.5628
+    },
+    "lin": {
+     "cell_r": 0.0,
+     "lib_r": -0.1272
+    },
+    "rank": {
+     "cell_r": 0.0,
+     "lib_r": -0.0447
+    }
+   }
+  },
+  "collagen_free_gate": {
+   "F7": {
+    "raw": {
+     "cell_r": 0.4286,
+     "lib_r": 0.4846
+    },
+    "lin": {
+     "cell_r": 0.0,
+     "lib_r": -0.1526
+    },
+    "rank": {
+     "cell_r": 0.0,
+     "lib_r": -0.0672
+    }
+   },
+   "F7e": {
+    "raw": {
+     "cell_r": 0.4092,
+     "lib_r": 0.4213
+    },
+    "lin": {
+     "cell_r": 0.0,
+     "lib_r": -0.1306
+    },
+    "rank": {
+     "cell_r": 0.0,
+     "lib_r": -0.091
+    }
+   }
+  }
+ },
+ "GSE231643_progress": {
+  "diff": 0.0358,
+  "p_two_sided_exact": 0.8929,
+  "n_perm": 56,
+  "healer_mean": 0.5536,
+  "nonhealer_mean": 0.5178,
+  "caveat": "cross-dataset projection; z-space computed within GSE231643, not calibrated to the acute-wound reference"
+ }
+}
