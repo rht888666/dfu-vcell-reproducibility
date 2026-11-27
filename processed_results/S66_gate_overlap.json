@@ -1,0 +1,9 @@
+{
+  "primary_n": 36119,
+  "cf_n": 34891,
+  "intersection": 28487,
+  "union": 42523,
+  "jaccard": 0.6699198081038497,
+  "pct_primary_in_cf": 0.7886984689498602,
+  "pct_cf_in_primary": 0.8164569659797656
+}
